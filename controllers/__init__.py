@@ -1,0 +1,1 @@
+"""Camada Controller: rotas, validação e orquestração entre Model e View."""

@@ -1,0 +1,1 @@
+"""Camada Model: regras de negócio, usuários e motor do RPG."""
